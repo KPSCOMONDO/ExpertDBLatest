@@ -1,0 +1,11 @@
+/*@CHARSET "UTF-8";
+ khmer 
+@font-face {
+  font-family: 'Hanuman';
+  font-style: normal;
+  font-weight: 400;
+  //src: local('Hanuman'), url(https://fonts.gstatic.com/s/hanuman/v9/Mwf4nEdDuEyEx8WKMXx7c1KPGs1ZzpMvnHX-7fPOuAc.woff2) format('woff2');
+
+  src: local('Hanuman'), url(Freehand.ttf) format('tff');
+  unicode-range: 'U+1780-17FF, U+200B-200C, U+25CC';
+}*/
